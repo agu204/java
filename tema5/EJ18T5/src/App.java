@@ -38,5 +38,5 @@ public class App {
         for(int i=numero1;i<=numero2;i=i+7){
             System.out.print(i+" ");
         }
-    }
+    } 
 }
